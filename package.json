@@ -1,7 +1,7 @@
 {
-  "name": "sendgrid-api-mcp-server",
-  "version": "1.0.4",
-  "description": "Sendrid API Integration For LLM",
+  "name": "@ritvik777/sendgrid-mcp-server",
+  "version": "1.0.0",
+  "description": "SendGrid API Integration for LLMs (MCP Server)",
   "main": "build/index.js",
   "bin": {
     "sendgrid-mcp-server": "./build/index.js"
@@ -19,7 +19,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/recepyavuz0/sendgrid-mcp-server.git"
+    "url": "git+https://github.com/Ritvik777/sendgridOutreach.git"
   },
   "keywords": [
     "sendgrid",
@@ -35,13 +35,13 @@
     "mcp",
     "email"
   ],
-  "author": "Recep Yavuz",
+  "author": "Ritvik Gaur",
   "license": "MIT",
   "type": "module",
   "bugs": {
-    "url": "https://github.com/recepyavuz0/sendgrid-mcp-server/issues"
+    "url": "https://github.com/Ritvik777/sendgridOutreach/issues"
   },
-  "homepage": "https://github.com/recepyavuz0/sendgrid-mcp-server#readme",
+  "homepage": "https://github.com/Ritvik777/sendgridOutreach#readme",
   "dependencies": {
     "@modelcontextprotocol/sdk": "^1.17.3",
     "@sendgrid/client": "^8.1.5",
